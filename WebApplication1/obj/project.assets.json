@@ -6072,11 +6072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\test_web\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\test_web\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\mnogo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\test_web\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mnogo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5830,11 +5830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\test_web\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "projectName": "NUnitTestProject1",
-      "projectPath": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectPath": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\test_web\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\mnogo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\NUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\test_web\\NUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mnogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5850,8 +5850,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
-              "projectPath": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj"
+            "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\test_web\\WebApplication1\\WebApplication1.csproj": {
+              "projectPath": "C:\\Users\\mnogo\\source\\repos\\WebApplication1\\test_web\\WebApplication1\\WebApplication1.csproj"
             }
           }
         }
